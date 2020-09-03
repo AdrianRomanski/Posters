@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2502c60-be12-4a48-a239-fa9417100c59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gzbtoEQR2sl5PfKuzMxeq1djOb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/files" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/files" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="posters.modern_solution.service.reader" />
+      <recent name="plakatowanie.modern_solution.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PostersTest.testMethod13">
+    <configuration name="PostersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="plakatowanie-olimpiada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="posters_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="posters_test" />
+      <option name="MAIN_CLASS_NAME" value="posters_test.PostersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostersTest.testMethod10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="plakatowanie-olimpiada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="posters_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="posters_test" />
+      <option name="MAIN_CLASS_NAME" value="posters_test.PostersTest" />
+      <option name="METHOD_NAME" value="testMethod10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostersTest.testMethod13" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="plakatowanie-olimpiada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="posters_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="posters_test" />
+      <option name="MAIN_CLASS_NAME" value="posters_test.PostersTest" />
+      <option name="METHOD_NAME" value="testMethod13" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostersTest.testMethod2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="plakatowanie-olimpiada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="posters_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="posters_test" />
+      <option name="MAIN_CLASS_NAME" value="posters_test.PostersTest" />
+      <option name="METHOD_NAME" value="testMethod2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostersTest.testMethod28" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="plakatowanie-olimpiada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="posters_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="posters_test" />
+      <option name="MAIN_CLASS_NAME" value="posters_test.PostersTest" />
+      <option name="METHOD_NAME" value="testMethod28" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PostersTest.testMethod13" />
+        <item itemvalue="JUnit.PostersTest.testMethod10" />
+        <item itemvalue="JUnit.PostersTest.testMethod2" />
+        <item itemvalue="JUnit.PostersTest" />
+        <item itemvalue="JUnit.PostersTest.testMethod28" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2502c60-be12-4a48-a239-fa9417100c59" name="Default Changelist" comment="" />
+      <created>1599120587178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599120587178</updated>
+      <workItem from="1599120588193" duration="10346000" />
+      <workItem from="1599134573756" duration="7896000" />
+      <workItem from="1599142588982" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="97" key="#Project_Structure" timestamp="1599134421715">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="512" y="97" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1599134421715" />
+    <state x="338" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1599138701789">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="338" y="275" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1599138701789" />
+    <state x="621" y="603" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599135723524">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="621" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599134482122" />
+    <state x="621" y="603" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599135723524" />
+    <state x="1034" y="563" key="Github.ShareDialog" timestamp="1599142601667">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1034" y="582" key="Github.ShareDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599142285639" />
+    <state x="1034" y="563" key="Github.ShareDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599142601667" />
+    <state x="876" y="288" key="Github.UntrackedFilesDialog" timestamp="1599142292375">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="876" y="288" key="Github.UntrackedFilesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599142292375" />
+    <state width="2498" height="979" key="GridCell.Tab.0.bottom" timestamp="1599142576202">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2498" height="979" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1599141750119" />
+    <state width="2498" height="979" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1599142576202" />
+    <state width="2498" height="979" key="GridCell.Tab.0.center" timestamp="1599142576201">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2498" height="979" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1599141750118" />
+    <state width="2498" height="979" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1599142576201" />
+    <state width="2498" height="979" key="GridCell.Tab.0.left" timestamp="1599142576201">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2498" height="979" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1599141750117" />
+    <state width="2498" height="979" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1599142576201" />
+    <state width="2498" height="979" key="GridCell.Tab.0.right" timestamp="1599142576201">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2498" height="979" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1599141750119" />
+    <state width="2498" height="979" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1599142576201" />
+    <state x="587" y="218" key="Maven.ArtifactSearchDialog" timestamp="1599139280242">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="587" y="218" key="Maven.ArtifactSearchDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599139280242" />
+    <state x="777" y="0" width="1005" height="1466" key="search.everywhere.popup" timestamp="1599137099885">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="777" y="0" width="1005" height="1466" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1599137099885" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/plakatowanie_olimpiada$PostersTest.ic" NAME="PostersTest Coverage Results" MODIFIED="1599141352784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>posters_test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
