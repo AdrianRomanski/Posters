@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2502c60-be12-4a48-a239-fa9417100c59" name="Default Changelist" comment="" />
+    <list default="true" id="c2502c60-be12-4a48-a239-fa9417100c59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +56,19 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.PostersTest.testMethod13">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PostersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="plakatowanie-olimpiada" />
       <extension name="coverage">
@@ -154,6 +169,7 @@
       <workItem from="1599120588193" duration="10346000" />
       <workItem from="1599134573756" duration="7896000" />
       <workItem from="1599142588982" duration="27000" />
+      <workItem from="1599142673958" duration="368000" />
     </task>
     <servers />
   </component>
@@ -174,15 +190,15 @@
     </state>
     <state x="621" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599134482122" />
     <state x="621" y="603" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599135723524" />
-    <state x="1034" y="563" key="Github.ShareDialog" timestamp="1599142601667">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state x="1034" y="582" key="Github.ShareDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599142285639" />
-    <state x="1034" y="563" key="Github.ShareDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599142601667" />
-    <state x="876" y="288" key="Github.UntrackedFilesDialog" timestamp="1599142292375">
+    <state x="1034" y="582" key="Github.ShareDialog" timestamp="1599142968509">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="876" y="288" key="Github.UntrackedFilesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599142292375" />
+    <state x="1034" y="582" key="Github.ShareDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599142968509" />
+    <state x="1034" y="563" key="Github.ShareDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599142601667" />
+    <state x="876" y="288" key="Github.UntrackedFilesDialog" timestamp="1599142974061">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="876" y="288" key="Github.UntrackedFilesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599142974061" />
     <state width="2498" height="979" key="GridCell.Tab.0.bottom" timestamp="1599142576202">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>

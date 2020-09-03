@@ -22,9 +22,8 @@ public class Application implements Runnable{
         public int buildingNumber;
         public int height;
 
-        /**
-         Comparing heights of buildings - descending order
-         */
+
+        //Comparing heights of buildings - descending order
         @Override
         public int compareTo(Building otherBuilding) {
             return -Integer.compare(height, otherBuilding.height);
