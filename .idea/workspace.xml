@@ -3,9 +3,90 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2502c60-be12-4a48-a239-fa9417100c59" name="Default Changelist" comment="">
+    <list default="true" id="c2502c60-be12-4a48-a239-fa9417100c59" name="Default Changelist" comment="Small Cosmetic Changes in Comments">
+      <change afterPath="$PROJECT_DIR$/src/main/java/salaries/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla0.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla0.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla10a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla10a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla10b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla10b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla1a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla1a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla1b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla1b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla1c.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla1c.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla1ocen.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla1ocen.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla2a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla2a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla2b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla2b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla2c.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla2c.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla2ocen.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla2ocen.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla3a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla3a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla3b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla3b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla3c.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla3c.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla3ocen.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla3ocen.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla4a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla4a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla4b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla4b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla4ocen.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla4ocen.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla5a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla5a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla5b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla5b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla6a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla6a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla6b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla6b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla7a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla7a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla7b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla7b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla8a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla8a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla8b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla8b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla9a.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla9a.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/in/pla9b.in" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/in/pla9b.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla0.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla0.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla10a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla10a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla10b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla10b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla1a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla1a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla1b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla1b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla1c.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla1c.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla1ocen.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla1ocen.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla2a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla2a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla2b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla2b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla2c.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla2c.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla2ocen.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla2ocen.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla3a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla3a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla3b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla3b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla3c.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla3c.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla3ocen.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla3ocen.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla4a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla4a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla4b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla4b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla4ocen.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla4ocen.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla5a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla5a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla5b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla5b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla6a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla6a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla6b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla6b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla7a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla7a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla7b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla7b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla8a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla8a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla8b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla8b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla9a.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla9a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/files/out/pla9b.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/files/posters/out/pla9b.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/posters/modern_solution/ModernSolutionApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/posters/modern_solution/ModernSolutionApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/posters/modern_solution/model/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/posters/modern_solution/model/Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/posters/modern_solution/model/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/posters/modern_solution/model/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/posters/modern_solution/model/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/posters/modern_solution/model/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/posters/single_class_solution/Application$Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/posters/single_class_solution/Application$Building.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/posters/single_class_solution/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/posters/single_class_solution/Application.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +122,64 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/files" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/files" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/files/posters" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="posters.modern_solution.service.reader" />
       <recent name="plakatowanie.modern_solution.service" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/files" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.PostersTest.testMethod13">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="salaries.Application" />
+      <module name="plakatowanie-olimpiada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salaries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="salaries.Application" />
+      <module name="plakatowanie-olimpiada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salaries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="salaries.Application" />
+      <module name="plakatowanie-olimpiada" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="salaries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -65,21 +189,6 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="plakatowanie-olimpiada" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="posters_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="posters_test" />
-      <option name="MAIN_CLASS_NAME" value="posters_test.PostersTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,45 +225,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostersTest.testMethod2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="plakatowanie-olimpiada" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="posters_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="posters_test" />
-      <option name="MAIN_CLASS_NAME" value="posters_test.PostersTest" />
-      <option name="METHOD_NAME" value="testMethod2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PostersTest.testMethod28" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="plakatowanie-olimpiada" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="posters_test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="posters_test" />
-      <option name="MAIN_CLASS_NAME" value="posters_test.PostersTest" />
-      <option name="METHOD_NAME" value="testMethod28" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="JUnit.PostersTest.testMethod13" />
         <item itemvalue="JUnit.PostersTest.testMethod10" />
-        <item itemvalue="JUnit.PostersTest.testMethod2" />
-        <item itemvalue="JUnit.PostersTest" />
-        <item itemvalue="JUnit.PostersTest.testMethod28" />
       </list>
     </recent_temporary>
   </component>
@@ -170,26 +245,66 @@
       <workItem from="1599134573756" duration="7896000" />
       <workItem from="1599142588982" duration="27000" />
       <workItem from="1599142673958" duration="368000" />
+      <workItem from="1599143342523" duration="98000" />
+      <workItem from="1599202131471" duration="206000" />
+      <workItem from="1599226838796" duration="23000" />
+      <workItem from="1599227091992" duration="13725000" />
+      <workItem from="1599289491078" duration="9910000" />
+      <workItem from="1599393968675" duration="941000" />
+      <workItem from="1599394927282" duration="3270000" />
+      <workItem from="1599466920819" duration="16764000" />
+      <workItem from="1599551889509" duration="427000" />
+      <workItem from="1599555016941" duration="13023000" />
+      <workItem from="1599657799880" duration="523000" />
     </task>
+    <task id="LOCAL-00001" summary="Small Cosmetic Changes in Comments">
+      <created>1599143416092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599143416092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Small Cosmetic Changes in Comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small Cosmetic Changes in Comments" />
   </component>
   <component name="WindowStateProjectService">
     <state x="512" y="97" key="#Project_Structure" timestamp="1599134421715">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="512" y="97" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1599134421715" />
-    <state x="338" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1599138701789">
+    <state x="338" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1599235755845">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state x="338" y="275" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1599138701789" />
-    <state x="621" y="603" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599135723524">
+    <state x="338" y="271" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1599229846326" />
+    <state x="338" y="275" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1337@0.23.2560.1337" timestamp="1599235755845" />
+    <state x="621" y="603" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599573257817">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="621" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599134482122" />
-    <state x="621" y="603" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599135723524" />
+    <state x="621" y="603" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599573257817" />
+    <state x="953" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599487789424">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="953" y="303" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.2560.1337@0.23.2560.1337" timestamp="1599487789424" />
     <state x="1034" y="582" key="Github.ShareDialog" timestamp="1599142968509">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -199,34 +314,67 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="876" y="288" key="Github.UntrackedFilesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599142974061" />
-    <state width="2498" height="979" key="GridCell.Tab.0.bottom" timestamp="1599142576202">
+    <state width="1206" height="1168" key="GridCell.Tab.0.bottom" timestamp="1599585039599">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="2498" height="979" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1599141750119" />
-    <state width="2498" height="979" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1599142576202" />
-    <state width="2498" height="979" key="GridCell.Tab.0.center" timestamp="1599142576201">
+    <state width="2498" height="489" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1599470148417" />
+    <state width="1206" height="1168" key="GridCell.Tab.0.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1599585039599" />
+    <state width="1206" height="1168" key="GridCell.Tab.0.center" timestamp="1599585039599">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="2498" height="979" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1599141750118" />
-    <state width="2498" height="979" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1599142576201" />
-    <state width="2498" height="979" key="GridCell.Tab.0.left" timestamp="1599142576201">
+    <state width="2498" height="489" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1599470148417" />
+    <state width="1206" height="1168" key="GridCell.Tab.0.center/0.23.2560.1337@0.23.2560.1337" timestamp="1599585039599" />
+    <state width="1206" height="1168" key="GridCell.Tab.0.left" timestamp="1599585039598">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="2498" height="979" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1599141750117" />
-    <state width="2498" height="979" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1599142576201" />
-    <state width="2498" height="979" key="GridCell.Tab.0.right" timestamp="1599142576201">
+    <state width="2498" height="489" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1599470148416" />
+    <state width="1206" height="1168" key="GridCell.Tab.0.left/0.23.2560.1337@0.23.2560.1337" timestamp="1599585039598" />
+    <state width="1206" height="1168" key="GridCell.Tab.0.right" timestamp="1599585039599">
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
-    <state width="2498" height="979" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1599141750119" />
-    <state width="2498" height="979" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1599142576201" />
+    <state width="2498" height="489" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1599470148417" />
+    <state width="1206" height="1168" key="GridCell.Tab.0.right/0.23.2560.1337@0.23.2560.1337" timestamp="1599585039599" />
+    <state width="2498" height="394" key="GridCell.Tab.1.bottom" timestamp="1599518842408">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2498" height="394" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1599469269366" />
+    <state width="2498" height="394" key="GridCell.Tab.1.bottom/0.23.2560.1337@0.23.2560.1337" timestamp="1599518842408" />
+    <state width="2498" height="394" key="GridCell.Tab.1.center" timestamp="1599518842407">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2498" height="394" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1599469269364" />
+    <state width="2498" height="394" key="GridCell.Tab.1.center/0.23.2560.1337@0.23.2560.1337" timestamp="1599518842407" />
+    <state width="2498" height="394" key="GridCell.Tab.1.left" timestamp="1599518842407">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2498" height="394" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1599469269364" />
+    <state width="2498" height="394" key="GridCell.Tab.1.left/0.23.2560.1337@0.23.2560.1337" timestamp="1599518842407" />
+    <state width="2498" height="394" key="GridCell.Tab.1.right" timestamp="1599518842407">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state width="2498" height="394" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1599469269365" />
+    <state width="2498" height="394" key="GridCell.Tab.1.right/0.23.2560.1337@0.23.2560.1337" timestamp="1599518842407" />
     <state x="587" y="218" key="Maven.ArtifactSearchDialog" timestamp="1599139280242">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="587" y="218" key="Maven.ArtifactSearchDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599139280242" />
-    <state x="777" y="0" width="1005" height="1466" key="search.everywhere.popup" timestamp="1599137099885">
+    <state x="254" y="306" key="Vcs.Push.Dialog.v2" timestamp="1599143418394">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="254" y="306" key="Vcs.Push.Dialog.v2/0.23.2560.1337@0.23.2560.1337" timestamp="1599143418394" />
+    <state x="811" y="174" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599397638890">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="777" y="0" width="1005" height="1466" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1599137099885" />
+    <state x="811" y="174" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1599397638890" />
+    <state x="887" y="357" key="extract.method.dialog" timestamp="1599502315595">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="887" y="357" key="extract.method.dialog/0.23.2560.1337@0.23.2560.1337" timestamp="1599502315595" />
+    <state x="777" y="23" width="1005" height="1362" key="search.everywhere.popup" timestamp="1599556153824">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="777" y="0" width="1005" height="1466" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1599470037267" />
+    <state x="777" y="23" width="1005" height="1362" key="search.everywhere.popup/0.23.2560.1337@0.23.2560.1337" timestamp="1599556153824" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/plakatowanie_olimpiada$PostersTest.ic" NAME="PostersTest Coverage Results" MODIFIED="1599141352784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
