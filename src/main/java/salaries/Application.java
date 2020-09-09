@@ -206,9 +206,6 @@ public class Application {
                 }
             }
         }
-        for (int j = 0; j < totalWorkers; j++)
-            System.out.println(totalSubordinates[j]);
-
         // Printing final result
         for (int j = 1; j < totalWorkers; j++)
             System.out.println(salaries[j]);
